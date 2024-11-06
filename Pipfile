@@ -10,6 +10,8 @@ pandas = "*"
 "ruamel.yaml" = "*"
 anytree = "*"
 humanfriendly = "*"
+packaging = "*"
+anytime = "*"
 
 [dev-packages]
 
